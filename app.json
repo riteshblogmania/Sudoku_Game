@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Sudoku Smart Trainer",
+    "slug": "sudoku-smart-trainer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
